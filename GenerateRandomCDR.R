@@ -1,7 +1,6 @@
 
 fileConn<-file("C:\\Users\\asus\\Desktop\\RandomCDR\\first.txt")
 path="C:\\Users\\asus\\Desktop\\RandomCDR\\first.txt"
-runif(1, 1, 10)
 
 while (TRUE)
 {
