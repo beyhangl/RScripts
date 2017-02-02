@@ -28,5 +28,5 @@ frequent_vodafone <- findFreqTerms(DTM, lowfreq = 7)
 frequent_vodafone
 
 
-[1] "beyond"        "turkcell" "earnings"      "india"         "liberty"       "netherlands"   "please"        "pressures"    
+[1] "beyond"        "turkcell" "earnings"      "hope"         "liberty"       "istanbul"   "please"        "pressures"    
 [9] "price"         "progressing"   "says"          "shell"         "talks"         "turkey"     "weigh"    
